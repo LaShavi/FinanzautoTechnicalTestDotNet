@@ -12,9 +12,7 @@ API desarrollada en **.NET 8** utilizando **Entity Framework Core**. El objetivo
   - **Cursos**
   - **Calificaciones**
 - Autenticación basada en **JWT**.
-- Autorización de endpoints mediante el atributo `[Authorize]`.
-- Lógica de autenticación conectada a la base de datos.
-- Arquitectura modular con patrón **Repository**.
+
 
 ---
 
